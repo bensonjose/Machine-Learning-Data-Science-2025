@@ -1,4 +1,5 @@
-- **Pandas**: Pandas is an open-source data analysis and manipulation library for Python, providing data structures and functions needed to work seamlessly with structured data.<br><br>
+- **<h1>Pandas</h1>**<br>
+-  **Pandas** is an open-source data analysis and manipulation library for Python, providing data structures and functions needed to work seamlessly with structured data.<br><br>
 
 - **Data Structures**: Pandas primarily uses two data structures:<br>
   - **Series**: A one-dimensional labeled array capable of holding any data type.<br>
