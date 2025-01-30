@@ -1,2 +1,2 @@
 
-**Different Data Science concepts in an easy-to-understand manner!**
+**Different Data Science concepts exlpained and implemented in an easy-to-understand manner!**
