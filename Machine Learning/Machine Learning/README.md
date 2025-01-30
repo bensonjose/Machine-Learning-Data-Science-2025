@@ -1,1 +1,1 @@
-**Different Machine Learning concepts exlpained in an easy-to-understand manner!**
+**Different Machine Learning concepts exlpained and implemented in an easy-to-understand manner!**
