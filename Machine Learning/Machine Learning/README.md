@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ## Machine Learning algorithms.
 
 ### In this repository, I have explained and given the code for ML algorithms in a simple and concise manner!
@@ -27,4 +25,3 @@ Naive Bayes is a simple, probabilistic machine learning algorithm based on Bayes
 
  #### 7. Random Forest
  Random forest is a commonly-used machine learning algorithm that combines the output of multiple decision trees to reach a single result.
->>>>>>> e752951bc5addc9b5bd3c28e165e9512d59595f7
