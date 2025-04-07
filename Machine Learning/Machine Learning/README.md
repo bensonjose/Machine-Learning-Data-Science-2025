@@ -19,4 +19,9 @@ Linear regression is a model that estimates the linear relationship between a sc
  #### 5.Naive Bayes
 Naive Bayes is a simple, probabilistic machine learning algorithm based on Bayes' theorem, used for classification tasks, that assumes features are independent of each other. 
 
- 
+ #### 6. Decision Tree
+ A decision tree is a flowchart-like tree structure where an internal node represents a feature(or attribute), the branch represents a decision rule, and each leaf node represents the outcome. The topmost node in a decision tree is known as the root node.
+
+
+ #### 7. Random Forest
+ Random forest is a commonly-used machine learning algorithm that combines the output of multiple decision trees to reach a single result.
